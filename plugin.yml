@@ -1,0 +1,10 @@
+name: SpendFly
+version: 1.0
+main: me.thisorthat.spendfly.main.SpendFly
+author: Kobe McManus
+
+commands:
+    pfly:
+        description: enable fly for a price
+        aliases: [fliy]
+        default: true
